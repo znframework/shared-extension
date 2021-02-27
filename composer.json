@@ -1,0 +1,17 @@
+{
+    "name": "znframework/shared-extension",
+    "type": "project",
+    "description": "ZN Framework Shared Extension",
+    "keywords": ["zn","zeroneed", "shared extension"],
+    "homepage": "https://github.com/znframework/shared-extension",
+    "license": "MIT",
+    "authors": 
+    [
+        {
+            "name": "Ozan UYKUN",
+            "email": "ozanbote@gmail.com",
+            "homepage": "https://www.znframework.com",
+            "role": "Developer"
+        }
+    ]
+}
