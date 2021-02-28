@@ -19,10 +19,11 @@ For configuration, edit the .conf file as follows.
 
 ```
 <VirtualHost *:80>
+
     ServerAdmin webmaster@localhost
     DocumentRoot /var/www/html/public
 
-    <Directory /var/www/html>
+    <Directory /var/www/html/public>
         Options Indexes FollowSymLinks MultiViews
         AllowOverride All
         Require all granted
@@ -30,5 +31,6 @@ For configuration, edit the .conf file as follows.
 
     ErrorLog ${APACHE_LOG_DIR}/error.log
     CustomLog ${APACHE_LOG_DIR}/access.log combined
+    
 </VirtualHost>
 ```
