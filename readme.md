@@ -1,3 +1,14 @@
+<p align="center">
+<a href="https://packagist.org/packages/znframework/shared-extension" rel="nofollow">
+	<img src="https://img.shields.io/packagist/dt/znframework/shared-extension?style=flat-square" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/shared-extension" rel="nofollow">
+	<img src="https://img.shields.io/github/v/release/znframework/shared-extension?style=flat-square&color=00BFFF" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/shared-extension" rel="nofollow">
+	<img src="https://img.shields.io/github/release-date/znframework/shared-extension?style=flat-square" style="max-width:100%;"></a>
+<a href="//packagist.org/packages/znframework/shared-extension" rel="nofollow">
+	<img src="https://img.shields.io/github/license/znframework/shared-extension?style=flat-square" style="max-width:100%;"></a>
+</p>
+
 <h2>ZN Framework Shared Extension</h2>
 <p>
 Allows you to create a shared working directory. For this use, this directory must be shown in DocumentRoot as the working directory.
